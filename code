@@ -1,7 +1,7 @@
 import random
 i=1
 tutulansayı=random.randrange(1, 100)
-"while döngüsü ile kullanıcıya 3 hak verilir"
+# while döngüsü ile kullanıcıya 3 hak verilir
 while i<=3:
 
     sayi=int(input("Lütfen Tahmininizi giriniz="))
